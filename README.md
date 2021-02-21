@@ -16,6 +16,6 @@
 * Flutter
 * Java
 
-## Experiências em tecnologia:
+## Experiências na área de tecnologia:
 * Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Desenvolvedor Front-End e Mobile
-
+   - Projeto de pesquisa "A saúde dos trabalhadores da saúde no contexto da pandemia da covid-19: prevenção e cuidado" (UFPB/CNPq)
