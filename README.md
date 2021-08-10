@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 
-#### Me chamo Kawhan, sou um programador , comecei a ter contato com programação a alguns meses.E desde lá venho me esforçando.
+#### Apaixonado por tecnologia e aprendizado, tive contato com varias tecnologias ligadas a criação como HTML e CSS3 e tecnologias ligadas a programação Java Script, Python e Java, sempre estou procurando muitos desafios para provar que domino bem essa área de tecnologia ligado ao desenvolvimento. Já participei de vários minicursos e bootcamps citando um deles que foi Next Level Week # 2 organizado pela Rocketseat, procuro sempre está me aprimorando e buscando cada vez mais conhecimento para desenvolver o melhor. Características ligadas a área profissional, facilidade na adaptação em ambientes onde tem trabalho em equipes, resiliência com problemas, comprometimento com trabalho passado entre outras características.
 
 <br/>![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 ) Kawhanlaurindo@Outlook.com
