@@ -12,6 +12,23 @@
 ) https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/
 
 ## Tecnologias que possuo Experiência:
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+)![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+)![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+)
+![image](BadgeURLAqui)
+![image](BadgeURLAqui)
+![image](BadgeURLAqui)
+![image](BadgeURLAqui)
+
+<br/>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
 
