@@ -19,3 +19,5 @@
 ## Experiências na área de tecnologia:
 * Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Desenvolvedor Front-End e Mobile
    - Projeto de pesquisa "A saúde dos trabalhadores da saúde no contexto da pandemia da covid-19: prevenção e cuidado" (UFPB/CNPq)
+
+[![card](https://github-readme-stats.vercel.app/api?username=Kawhan&theme=default)](https://github.com/iuricode/)
