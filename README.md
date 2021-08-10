@@ -12,13 +12,19 @@
 ) https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/
 
 ## Tecnologias que possuo Experiência:
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-)![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 )
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+)
+![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )
 <br/>[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
