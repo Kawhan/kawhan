@@ -6,10 +6,8 @@
 
 <br/>![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 ) Kawhanlaurindo@Outlook.com
-<br/>![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-) (83)996296370
-<br/>![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-) # https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/
+<br/>![image.2](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)[2]https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/
 
 ## Technologies I have Experience:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
@@ -48,7 +46,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://img-premium.flaticon.com/png/512/739/premium/739244.png?token=exp=1628623360~hmac=2223c47753225c76e7e714626dbb8988 (LinkedIn icon without padding)
+[2.2]:  (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
