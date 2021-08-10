@@ -6,9 +6,10 @@
 
 <br/>![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 ) Kawhanlaurindo@Outlook.com
-<br/>:star2:&nbsp;.Não estou trabalhando atualmente em nenhuma empresa.
-<br/>:eyeglasses:&nbsp;.Procuro colaborar em qualquer projeto seja como empregado ou voluntario, procuro vagas relacionadas a tecnologia.
-
+<br/>![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+) (83)996296370
+<br/>:![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+) https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/
 
 ## Tecnologias que possuo Experiência:
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
