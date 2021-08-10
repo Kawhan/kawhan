@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 
-#### Me chamo Kawhan, sou um programador iniciante, comecei a ter contato com programação a alguns meses.E desde lá venho me esforçando.
+#### Me chamo Kawhan, sou um programador , comecei a ter contato com programação a alguns meses.E desde lá venho me esforçando.
 
 <br/>:purple_heart:&nbsp;.Email para contato:kawhanlaurindo@outlook.com
 <br/>:star2:&nbsp;.Não estou trabalhando atualmente em nenhuma empresa.
