@@ -10,11 +10,11 @@
 
 
 ## Tecnologias que possuo Experiência:
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=Tokyonight)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
 
 ## Experiências na área de tecnologia:
 * Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Desenvolvedor Front-End e Mobile
    - Projeto de pesquisa "A saúde dos trabalhadores da saúde no contexto da pandemia da covid-19: prevenção e cuidado" (UFPB/CNPq)
 
-[![card](https://github-readme-stats.vercel.app/api?username=Kawhan&theme=Tokyonight)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=Kawhan&theme=tokyonight)](https://github.com/iuricode/)
