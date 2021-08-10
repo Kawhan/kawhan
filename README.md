@@ -27,7 +27,7 @@
 )
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 )
-![image](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+
 
 ## Experiences in the technology area:
 * Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Desenvolvedor Front-End e Mobile
