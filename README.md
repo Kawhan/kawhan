@@ -4,7 +4,7 @@
 
 #### Me chamo Kawhan, sou um programador , comecei a ter contato com programação a alguns meses.E desde lá venho me esforçando.
 
-<br/>:purple_heart:&nbsp;.Email para contato:kawhanlaurindo@outlook.com
+<br/>:purple_heart:&nbsp;.![https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white](kawhanlaurindo@outlook.com)
 <br/>:star2:&nbsp;.Não estou trabalhando atualmente em nenhuma empresa.
 <br/>:eyeglasses:&nbsp;.Procuro colaborar em qualquer projeto seja como empregado ou voluntario, procuro vagas relacionadas a tecnologia.
 
