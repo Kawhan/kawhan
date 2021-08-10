@@ -7,7 +7,7 @@
 <br/>![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 ) Kawhanlaurindo@Outlook.com
 <br/>![image.2](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)[2]:https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/
+)[2]:(https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/)
 
 ## Technologies I have Experience:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
@@ -39,16 +39,4 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=Kawhan&theme=tokyonight)](https://github.com/iuricode/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
-<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]:  (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
