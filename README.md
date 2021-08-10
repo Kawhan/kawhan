@@ -6,15 +6,12 @@
 
 <br/>:purple_heart:&nbsp;.Email para contato:kawhanlaurindo@outlook.com
 <br/>:star2:&nbsp;.Não estou trabalhando atualmente em nenhuma empresa.
-<br/>:blue_book:&nbsp;.Estou estudando python , javascript , html5 e css3.
-<br/>:eyeglasses:&nbsp;.Procuro colaborar em qualquer projeto seja como empregado ou voluntario, procuro vagas relacionadas a back-end e front-end.
+<br/>:eyeglasses:&nbsp;.Procuro colaborar em qualquer projeto seja como empregado ou voluntario, procuro vagas relacionadas a tecnologia.
 
 
 ## Tecnologias que possuo Experiência:
-* HTML , CSS3 e Javascript 
-* Python
-* Flutter
-* Java
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+
 
 ## Experiências na área de tecnologia:
 * Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Desenvolvedor Front-End e Mobile
