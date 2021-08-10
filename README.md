@@ -35,6 +35,9 @@
    - Projeto de pesquisa "A saúde dos trabalhadores da saúde no contexto da pandemia da covid-19: prevenção e cuidado" (UFPB/CNPq)
 
 [![card](https://github-readme-stats.vercel.app/api?username=Kawhan&theme=tokyonight)](https://github.com/iuricode/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawhan&label=Profile%20views&color=0e75b6&style=flat" alt="kawhan" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawhan" alt="kawhan" /></a> </p>
+
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/" height="30" width="40" /></a>
 <a href="https://instagram.com/kawhanlaurindo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kawhanlaurindo" height="30" width="40" /></a>
