@@ -11,7 +11,7 @@
 <br/>![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 ) # https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/
 
-## Tecnologias que possuo Experiência:
+## Technologies I have Experience:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 )
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
