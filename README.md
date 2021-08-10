@@ -6,12 +6,6 @@
 #### Passionate about technology and learning, I had contact with several technologies related to creation such as HTML and CSS3 and technologies related to Java Script, Python and Java programming, I am always looking for many challenges to prove that I have a good command of this area of technology related to development. I've participated in several minicourses and bootcamps, mentioning one of them which was Next Level Week # 2 organized by Rocketseat, I always try to improve and seek more and more knowledge to develop the best. Characteristics linked to the professional area, ease of adaptation in environments where there is teamwork, resilience with problems, commitment to past work, among other characteristics.
 
 
-<br/>![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
-) <Kawhanlaurindo@Outlook.com>
-
-<br/>![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-) <https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/>
-
 ## Technologies I have Experience:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 )
