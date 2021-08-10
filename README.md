@@ -4,12 +4,7 @@
 
 #### Passionate about technology and learning, I had contact with several technologies related to creation such as HTML and CSS3 and technologies related to Java Script, Python and Java programming, I am always looking for many challenges to prove that I have a good command of this area of technology related to development. I've participated in several minicourses and bootcamps, mentioning one of them which was Next Level Week # 2 organized by Rocketseat, I always try to improve and seek more and more knowledge to develop the best. Characteristics linked to the professional area, ease of adaptation in environments where there is teamwork, resilience with problems, commitment to past work, among other characteristics.
 
-<br/>![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
-) Kawhanlaurindo@Outlook.com
-<br/>![1.2]
-[1](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)
-[2]:(https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/)
+
 
 ## Technologies I have Experience:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
@@ -42,3 +37,44 @@
 [![card](https://github-readme-stats.vercel.app/api?username=Kawhan&theme=tokyonight)](https://github.com/iuricode/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
 
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+
+[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
+[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
+[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: http://www.github.com/carlsednaoui
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
