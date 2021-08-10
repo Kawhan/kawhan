@@ -1,8 +1,8 @@
 # Kawhan Laurindo
 
-## Olá pessoal 👋
+## Hello 👋
 
-#### Apaixonado por tecnologia e aprendizado, tive contato com varias tecnologias ligadas a criação como HTML e CSS3 e tecnologias ligadas a programação Java Script, Python e Java, sempre estou procurando muitos desafios para provar que domino bem essa área de tecnologia ligado ao desenvolvimento. Já participei de vários minicursos e bootcamps citando um deles que foi Next Level Week # 2 organizado pela Rocketseat, procuro sempre está me aprimorando e buscando cada vez mais conhecimento para desenvolver o melhor. Características ligadas a área profissional, facilidade na adaptação em ambientes onde tem trabalho em equipes, resiliência com problemas, comprometimento com trabalho passado entre outras características.
+#### Passionate about technology and learning, I had contact with several technologies related to creation such as HTML and CSS3 and technologies related to Java Script, Python and Java programming, I am always looking for many challenges to prove that I have a good command of this area of technology related to development. I've participated in several minicourses and bootcamps, mentioning one of them which was Next Level Week # 2 organized by Rocketseat, I always try to improve and seek more and more knowledge to develop the best. Characteristics linked to the professional area, ease of adaptation in environments where there is teamwork, resilience with problems, commitment to past work, among other characteristics.
 
 <br/>![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 ) Kawhanlaurindo@Outlook.com
@@ -35,7 +35,7 @@
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 )
 
-## Experiências na área de tecnologia:
+## Experiences in the technology area:
 * Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Desenvolvedor Front-End e Mobile
    - Projeto de pesquisa "A saúde dos trabalhadores da saúde no contexto da pandemia da covid-19: prevenção e cuidado" (UFPB/CNPq)
 
