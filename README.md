@@ -6,7 +6,7 @@
 
 <br/>![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 ) Kawhanlaurindo@Outlook.com
-<br/>![image.2](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<br/>![image, 2](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )[2]:(https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/)
 
 ## Technologies I have Experience:
