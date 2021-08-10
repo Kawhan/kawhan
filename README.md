@@ -8,7 +8,7 @@
 ) Kawhanlaurindo@Outlook.com
 <br/>![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 ) (83)996296370
-<br/>:![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<br/>![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 ) https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/
 
 ## Tecnologias que possuo Experiência:
