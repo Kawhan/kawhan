@@ -27,8 +27,6 @@
 ![image](BadgeURLAqui)
 ![image](BadgeURLAqui)
 ![image](BadgeURLAqui)
-
-<br/>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
 
