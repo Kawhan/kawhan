@@ -17,7 +17,7 @@ const Kawhan = {
             Framework: ["ReactJs"]
         },
         backEnd: {
-            Java: ["spring",],
+            Java: ["spring"],
             Python: [ "django"]
         }        
     }
