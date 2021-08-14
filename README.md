@@ -8,7 +8,7 @@ The Dark-Mode always wins.
 ### aboutMe.js
 
 ```javascript
-const amado = {
+const Kawhan = {
     pronouns: "he" | "him",
     code: [Javascript, HTML, CSS],
     askMeAbout: ["full stack dev", "tech", "crypto", "music", "coffee"],
