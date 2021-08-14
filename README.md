@@ -1,5 +1,5 @@
 ![](https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/cover.jpg)
-### The Dark-Mode always wins.
+# The Dark-Mode always wins.
 <br/>
 # Hello, I'm Kawhan Laurindo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
