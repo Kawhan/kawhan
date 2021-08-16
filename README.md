@@ -26,7 +26,7 @@ const Kawhan = {
 
 
 <br/>[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/klaurind?darkmode=true&cursus=Basecamp)](https://github.com/JaeSeoKim/badge42)
-<br/>[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/klaurind?darkmode=true&cursus=c%20cursus)](https://github.com/JaeSeoKim/badge42)
+<br/>[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/klaurind)](https://github.com/JaeSeoKim/badge42)
 
 
 
