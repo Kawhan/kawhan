@@ -1,6 +1,9 @@
 ![](https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/cover.jpg)
 The Dark-Mode always wins.
 <br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawhan&label=Profile%20views&color=0e75b6&style=flat" alt="kawhan" /> </p>
+
 # Hello, I'm Kawhan Laurindo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 #### Passionate about technology and learning, I had contact with several technologies related to creation such as HTML and CSS3 and technologies related to Java Script, Python and Java programming, I am always looking for many challenges to prove that I have a good command of this area of technology related to development. I've participated in several minicourses and bootcamps, mentioning one of them which was Next Level Week # 2 organized by Rocketseat, I always try to improve and seek more and more knowledge to develop the best. Characteristics linked to the professional area, ease of adaptation in environments where there is teamwork, resilience with problems, commitment to past work, among other characteristics.
@@ -38,8 +41,6 @@ const Kawhan = {
 ## Experiences in the technology area:
 * Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Desenvolvedor Front-End e Mobile
    - Projeto de pesquisa "A saúde dos trabalhadores da saúde no contexto da pandemia da covid-19: prevenção e cuidado" (UFPB/CNPq)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawhan&label=Profile%20views&color=0e75b6&style=flat" alt="kawhan" /> </p>
 
 ## 📊 Github stats
 
