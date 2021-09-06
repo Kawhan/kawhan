@@ -56,22 +56,10 @@ const Kawhan = {
 </details>
 
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/9) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-2. 💪 Opened PR [#9](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/9) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-3. 🎉 Merged PR [#8](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/8) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-4. 💪 Opened PR [#8](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/8) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-5. 🎉 Merged PR [#8](https://github.com/nextcord/nextcord-ext-menus/pull/8) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-<!--END_SECTION:activity-->
-</details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kawhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kawhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ## Social Media:
 <a href="https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/" height="30" width="40" /></a>
