@@ -59,7 +59,7 @@ const Kawhan = {
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kawhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kawhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kawhan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Social Media:
 <a href="https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/" height="30" width="40" /></a>
