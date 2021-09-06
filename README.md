@@ -2,7 +2,7 @@
 The Dark-Mode always wins.
 <br/>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/twgxll_fox)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawhan&label=Profile%20views&color=0e75b6&style=flat" alt="kawhan" /> </p>
 
