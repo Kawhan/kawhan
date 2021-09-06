@@ -51,7 +51,8 @@ const Kawhan = {
    
 [![card](https://github-readme-stats.vercel.app/api?username=Kawhan&theme=tokyonight)](https://github.com/iuricode/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawhan" alt="kawhan" /></a> </p>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kawhan&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kawhan&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
