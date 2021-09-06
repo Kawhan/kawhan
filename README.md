@@ -79,7 +79,7 @@ const Kawhan = {
   
   <img src="https://github-profile-trophy.vercel.app/?username=Kawhan&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
 
   <br/>
