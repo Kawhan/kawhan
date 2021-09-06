@@ -2,6 +2,8 @@
 The Dark-Mode always wins.
 <br/>
 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawhan&label=Profile%20views&color=0e75b6&style=flat" alt="kawhan" /> </p>
 
 # Hello, I'm Kawhan Laurindo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
