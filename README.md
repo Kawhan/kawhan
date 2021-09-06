@@ -12,7 +12,6 @@ The Dark-Mode always wins.
   </a>
 </h1>
 
-# Hello, I'm Kawhan Laurindo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 #### Passionate about technology and learning, I had contact with several technologies related to creation such as HTML and CSS3 and technologies related to Java Script, Python and Java programming, I am always looking for many challenges to prove that I have a good command of this area of technology related to development. I've participated in several minicourses and bootcamps, mentioning one of them which was Next Level Week # 2 organized by Rocketseat, I always try to improve and seek more and more knowledge to develop the best. Characteristics linked to the professional area, ease of adaptation in environments where there is teamwork, resilience with problems, commitment to past work, among other characteristics.
 
@@ -57,10 +56,32 @@ const Kawhan = {
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
    
-[![card](https://github-readme-stats.vercel.app/api?username=Kawhan&theme=tokyonight)](https://github.com/iuricode/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
+<!-- [![card](https://github-readme-stats.vercel.app/api?username=Kawhan&theme=tokyonight)](https://github.com/iuricode/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/) -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawhan&theme=tokyonight" />
-<img src="https://github-profile-trophy.vercel.app/?username=Kawhan&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawhan&theme=tokyonight" /> -->
+
+  
+  <p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Kawhan&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
