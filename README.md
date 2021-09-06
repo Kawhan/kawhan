@@ -38,10 +38,9 @@ const Kawhan = {
 ## Experiences in the technology area:
 * Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Desenvolvedor Front-End e Mobile
    - Projeto de pesquisa "A saúde dos trabalhadores da saúde no contexto da pandemia da covid-19: prevenção e cuidado" (UFPB/CNPq)
+<!-- 
+[![card](https://github-readme-stats.vercel.app/api?username=Kawhan&theme=tokyonight)](https://github.com/iuricode/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/) -->
 
-[![card](https://github-readme-stats.vercel.app/api?username=Kawhan&theme=tokyonight)](https://github.com/iuricode/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawhan&label=Profile%20views&color=0e75b6&style=flat" alt="kawhan" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawhan" alt="kawhan" /></a> </p>
 
 ## 📊 Github stats
 
@@ -51,6 +50,8 @@ const Kawhan = {
   <br/>
     <a href="https://github.com/Kawhan/github-readme-stats"><img alt="Kawhan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kawhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/Kawhan/github-readme-stats"><img alt="Kawhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawhan&label=Profile%20views&color=0e75b6&style=flat" alt="kawhan" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawhan" alt="kawhan" /></a> </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
