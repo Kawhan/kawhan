@@ -53,7 +53,7 @@ const Kawhan = {
 
 ## 💻 42 Projects 💻
   
-<a href="https://github.com/Kawhan/libft_c"><img width="125px" src="./42_icones/libft.png"/></a>
+<a href="https://github.com/Kawhan/libft_c"><img width="125px" src="./libft.png"/></a>
 
 ## 📊 Github stats
 
