@@ -51,6 +51,10 @@ const Kawhan = {
 * Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Desenvolvedor Front-End e Mobile
    - Projeto de pesquisa "A saúde dos trabalhadores da saúde no contexto da pandemia da covid-19: prevenção e cuidado" (UFPB/CNPq)
 
+## 💻 42 Projects 💻
+  
+<a href="https://github.com/vitoivan/42_libft"><img width="125px" src="./42_icons/libft.png"/></a>
+
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
