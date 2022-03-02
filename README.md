@@ -66,8 +66,21 @@ const Kawhan = {
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Experiences in the technology area:
-* Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Desenvolvedor Front-End e Mobile
+* Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Volunteer Software Developer and front-end developer
    - Projeto de pesquisa "A saúde dos trabalhadores da saúde no contexto da pandemia da covid-19: prevenção e cuidado" (UFPB/CNPq)
+   - Worker health and covid 19 Research project "The health of health workers in the context of the covid-19 pandemic: prevention and care" (UFPB/CNPq) Instagram: https://www.instagram.com/saudedotrabalhador_covid19/
+   
+* Data-Driven Higher Education Institutions (UFPB PROJECT PIBIC)
+   - The general objective of this work plan is to investigate and analyze open data on basic education in Brazil in order to identify relevant information and relationships with higher education indicators. 
+
+  The specific objectives involve: 
+      • Identifying open databases of basic education in Brazil; 
+      • Organize and select measures and dimensions for analysis of basic education that can provide relevant             information in relation to higher education; 
+      • Implement an analytical application based on Business Intelligence concepts; 
+      • Analyze basic education data under different dimensions.
+      
+* Voluntary Apps4Society UFPB Project
+   - Apps4Society: Building apps that positively impact society. This project's main objective is to stimulate the development of applications that can positively impact society.
 
 ## 💻 42 Projects 💻
   
