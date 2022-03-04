@@ -83,7 +83,7 @@ const Kawhan = {
    - Apps4Society: Building apps that positively impact society. This project's main objective is to stimulate the development of applications that can positively impact society.
   
 * Software Developer in I.Systems
-   - Internship software developer
+   - Intern software developer
 
 
 ## 💻 42 Projects 💻
