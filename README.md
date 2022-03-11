@@ -66,6 +66,9 @@ const Kawhan = {
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Experiences in the technology area:
+
+<summary>💻 Experiences TI</summary>
+<details> 
 * Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Volunteer Software Developer and Front End Developer Scholarship 
    - Projeto de pesquisa "A saúde dos trabalhadores da saúde no contexto da pandemia da covid-19: prevenção e cuidado" (UFPB/CNPq)
    - Worker health and covid 19 Research project "The health of health workers in the context of the covid-19 pandemic: prevention and care" (UFPB/CNPq) Instagram: https://www.instagram.com/saudedotrabalhador_covid19/
@@ -84,7 +87,7 @@ const Kawhan = {
   
 * Software Developer in I.Systems
    - Intern software developer
-
+</details> 
 
 ## 💻 42 Projects 💻
   
