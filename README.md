@@ -75,7 +75,7 @@ const Kawhan = {
 * Data-Driven Higher Education Institutions (UFPB PROJECT PIBIC)
    - The general objective of this work plan is to investigate and analyze open data on basic education in Brazil in order to identify relevant information and relationships with higher education indicators. 
 
-  The specific objectives involve: 
+  The specific objectives involve: <br/>
       • Identifying open databases of basic education in Brazil;<br/>
       • Organize and select measures and dimensions for analysis of basic education that can provide relevant information in relation to higher education;<br/>
       • Implement an analytical application based on Business Intelligence concepts; <br/>
