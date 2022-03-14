@@ -76,10 +76,10 @@ const Kawhan = {
    - The general objective of this work plan is to investigate and analyze open data on basic education in Brazil in order to identify relevant information and relationships with higher education indicators. 
 
   The specific objectives involve: 
-      • Identifying open databases of basic education in Brazil; 
-      • Organize and select measures and dimensions for analysis of basic education that can provide relevant             information in relation to higher education; 
-      • Implement an analytical application based on Business Intelligence concepts; 
-      • Analyze basic education data under different dimensions.
+      • Identifying open databases of basic education in Brazil;<br/>
+      • Organize and select measures and dimensions for analysis of basic education that can provide relevant information in relation to higher education;<br/>
+      • Implement an analytical application based on Business Intelligence concepts; <br/>
+      • Analyze basic education data under different dimensions.<br/>
       
 * Voluntary Apps4Society UFPB Project
    - Apps4Society: Building apps that positively impact society. This project's main objective is to stimulate the development of applications that can positively impact society.
