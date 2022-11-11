@@ -29,7 +29,7 @@ const Kawhan = {
             Programming language: ["JavaScript"]
         },
         backEnd: {
-            Programming language: ["Java", "Python", "Flask", "Django"]
+            Programming language: ["Java", "Python", "Flask", "Django", "C++", "C"]
         }        
     }
 };
