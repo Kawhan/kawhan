@@ -125,13 +125,15 @@ const Kawhan = {
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kawhan&theme=react-dark)](https://github.com/ashutosh00710/github-  readme-activity-graph)
 </details>
 
 
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kawhan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## Social Media:
 <a href="https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/" height="30" width="40" /></a>
