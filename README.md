@@ -29,8 +29,13 @@ const Kawhan = {
             Programming language: ["JavaScript"]
         },
         backEnd: {
-            Programming language: ["Java", "Python", "Flask", "Django", "C++", "C"]
-        }        
+            Programming language: ["Java", "Python"]
+            Frameworks: {"Flask", "Django"}
+        }
+        Desktop: {
+            Programming language: {"C++", "C"}
+            Frameworks: {QT}
+        }
     }
 };
 ```
