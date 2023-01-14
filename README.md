@@ -26,15 +26,16 @@ const Kawhan = {
     askMeAbout: ["full stack dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
-            Programming language: ["JavaScript"]
+            Programming language: ["JavaScript"],
+            Technologies: ['HTML5', 'CSS3']
         },
         backEnd: {
-            Programming language: ["Java", "Python"]
-            Frameworks: {"Flask", "Django"}
+            Programming language: ["Java", "Python"],
+            Frameworks: ["Flask", "Django"]
         }
         Desktop: {
-            Programming language: {"C++", "C"}
-            Frameworks: {QT}
+            Programming language: ["C++", "C"],
+            Frameworks: [QT]
         }
     }
 };
