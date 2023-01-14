@@ -41,7 +41,7 @@ const Kawhan = {
 };
 ```
 
-
+[![jaeskim's 42 stats](https://badge42.vercel.app/api/v2/cl0yx1v0j0158ns5shlllmdvb/stats?cursusId=9&coalitionId=basecamp)](https://github.com/JaeSeoKim/badge42)
 
 
 <h3 align="left">Languages and Tools:</h3>
