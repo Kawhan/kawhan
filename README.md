@@ -127,14 +127,20 @@ const Kawhan = {
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
+  
+
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawhan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Kawhan&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
- 
+
+<br><br>
+<div align=center >
+
+  <img src="https://github-profile-trophy.vercel.app/?username=kawhan&no-bg=true&theme=flat&column=8&margin-w=12" align="center"/>
+</div>
+
   
   <br>
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
