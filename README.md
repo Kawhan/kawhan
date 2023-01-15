@@ -40,9 +40,9 @@ const Kawhan = {
     }
 };
 ```
-
-[![klaurind's 42 stats](https://badge42.vercel.app/api/v2/clcwa886m00160fmpwhkaa610/stats?cursusId=36&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
-
+<!-- 
+[![klaurind's 42 stats](https://badge42.vercel.app/api/v2/clcwa886m00160fmpwhkaa610/stats?cursusId=36&coalitionId=basecamp)](https://github.com/JaeSeoKim/badge42)
+-->
 
 
 <h3 align="left">Languages and Tools:</h3>
