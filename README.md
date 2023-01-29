@@ -32,11 +32,12 @@ const Kawhan = {
         backEnd: {
             Programming language: ['Java', 'Python'],
             Frameworks: ['Flask', 'Django']
-        }
+        },
         Desktop: {
             Programming language: ['C++', 'C'],
             Frameworks: ['QT']
-        }
+        },
+        "database": {"Mysql", "PostgreSQL", "SQL server"},
     }
 };
 ```
