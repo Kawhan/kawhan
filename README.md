@@ -37,7 +37,7 @@ const Kawhan = {
             Programming language: ['C++', 'C'],
             Frameworks: ['QT']
         },
-        "database": {"Mysql", "PostgreSQL", "SQL server"},
+        Database: {'Mysql', 'PostgreSQL', 'SQL server'},
     }
 };
 ```
