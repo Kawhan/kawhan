@@ -97,7 +97,7 @@ const Kawhan = {
 
   • During the front-end front I learned concepts related to webdesign, html, css, js, angular and concepts related to object orientation, semantics of HTML pages, github, design and among other things related to web front-end.
 
-  • During the backend front I learned python, SQL, concepts related to relational databases, docker, linux, bash, flask, django, concepts related to object orientation, API, Microservices, MYSQL, PostgreSQL, concepts related to ORM, best practices on the backend, github and HTTP.
+  • During the backend front I learned python, GO, SQL, concepts related to relational databases, docker, linux, bash, flask, django, concepts related to object orientation, API, Microservices, MYSQL, PostgreSQL, concepts related to ORM, best practices on the backend, github and HTTP.
 
   • During the desktop front I learned C, C++, API, QT creator.
 
