@@ -30,7 +30,7 @@ const Kawhan = {
             Technologies: ['HTML5', 'CSS3']
         },
         backEnd: {
-            Programming language: ['Java', 'Python', 'GO'],
+            Programming language: ['Java', 'Python', 'Golang'],
             Frameworks: ['Flask', 'Django']
         },
         Desktop: {
