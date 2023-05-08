@@ -72,7 +72,7 @@ const Kawhan = {
 
 ## Experiences in the technology area:
 <details> 
- <summary>💼 Professional experience</summary>
+ <summary>💼 Professional experience here</summary>
   
   
 * Projeto de extensão PIBIC UFPB - Saúde do trabalhador e a covid 19 - Volunteer Software Developer and Front End Developer Scholarship 
