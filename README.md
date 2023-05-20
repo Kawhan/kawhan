@@ -39,6 +39,7 @@ const Kawhan = {
             Frameworks: ['QT']
         },
         Database: {'Mysql', 'PostgreSQL', 'SQL server'},
+        Queues: {'RabbitMQ'}
     }
 };
 ```
