@@ -33,13 +33,14 @@ const Kawhan = {
             Programming language: ['Java', 'Python', 'Golang'],
             Technologies: ['AWS', 'RabbitMQ', 'Grafana', 'Heroku', 'Docker', 'nginx'],
             Frameworks: ['Flask', 'Django']
+            Queues: {'RabbitMQ'}
         },
         Desktop: {
             Programming language: ['C++', 'C'],
             Frameworks: ['QT']
         },
         Database: {'Mysql', 'PostgreSQL', 'SQL server'},
-        Queues: {'RabbitMQ'}
+       
     }
 };
 ```
