@@ -149,7 +149,6 @@ const Kawhan = {
 
 ## Social Media:
 <a href="https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kawhan-laurindo-de-lima-b61a7a1b4/" height="30" width="40" /></a>
-<a href="https://instagram.com/kawhanlaurindo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kawhanlaurindo" height="30" width="40" /></a>
 <br/> 
 <br/> 
 </p>
