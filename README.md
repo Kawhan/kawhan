@@ -27,7 +27,8 @@ const Kawhan = {
     technologies: {
         frontEnd: {
             Programming language: ['JavaScript'],
-            Technologies: ['HTML5', 'CSS3']
+            Technologies: ['HTML5', 'CSS3'],
+            Frameworks> ['ReactJS']
         },
         backEnd: {
             Programming language: ['Java', 'Python', 'Golang'],
