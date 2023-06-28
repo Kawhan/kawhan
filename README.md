@@ -32,7 +32,7 @@ const Kawhan = {
         },
         backEnd: {
             Programming language: ['Java', 'Python', 'Golang'],
-            Technologies: ['AWS', 'RabbitMQ', 'Grafana', 'Heroku', 'Docker', 'nginx'],
+            Technologies: ['RabbitMQ', 'Grafana', 'Heroku', 'Docker', 'nginx'],
             Frameworks: ['Flask', 'Django'],
             Queues: {'RabbitMQ'}
         },
