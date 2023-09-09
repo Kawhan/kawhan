@@ -81,13 +81,13 @@ const Kawhan = {
   
 * Software Developer in I.Systems
    - Intern software developer
-   During the internship at I Systems I learned several technologies on different fronts
+  During the internship at I Systems I learned several technologies on different fronts
 
-  • During the front-end front I learned concepts related to webdesign, html, css, js, angular and concepts related to object orientation, semantics of HTML pages, github, design and among other things related to web front-end.
+  * During the front-end front, I focused on the front end of a product called Calix, a product that uses AI to plan demand, the number of Devs was around 6 to 12 in the team, during this period I had to develop product screens following what was planned by the design, in addition to adjusting the code to the best market practices and thinking about how to develop the pages using the best possible semantics. During this experience I learned to better manage my working time and how to manage feedback from the team, about technologies I learned concepts related to webdesign, html, css, js, angular and concepts related to object orientation, semantics of HTML pages, github ( gitflow), design and among other things related to front-end web.
 
-  • During the backend front I learned python, GO, SQL, concepts related to relational databases, docker, linux, bash, flask, django, concepts related to object orientation, API, Microservices, MYSQL, PostgreSQL, concepts related to ORM, best practices on the backend, github and HTTP.
+  * During the back-end front, still in contact with Calix, but now focusing on API using Django, I had to deal with issues of complexity of algorithms, REST APIs, communication protocols (Networks), application performance, scalability, authentication and authorization, security, database and good coding practices, about technologies I learned python, SQL, concepts related to relational databases, docker, linux, bash, flask, django, concepts related to object orientation, API, Microservices, nginx , MYSQL, PostgreSQL, concepts related to ORM, HTTP, github and good practices in the back-end. At another time I had contact with another product that involved a messaging system using Golang and data analysis, during this period I had to deal with concurrency control, process automation using python and other solutions such as apache airflow, in addition to having contact with Grafana at that time.
 
-  • During the desktop front I learned C, C++, API, QT creator.
+  * During the desktop front, I dealt with a product called LEAF that automates the industry bringing the concept of industry 4.0, technologies I had contact C, C++, API, QT creator.
 
 </details>
 
