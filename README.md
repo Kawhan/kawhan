@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+there!+👋;I'm+Kawhan+Lima;Mid-level+Software+Engineer;.NET+%7C+Back-end+%7C+Industrial+Automation&center=true&width=600&size=28">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C%20there!;I%20am%20Kawhan%20Lima;Mid-level%20Software%20Engineer;Back-end%20%2F%20.NET%20Developer&center=true&width=600&size=28&color=58A6FF" alt="Hello, there! I am Kawhan Lima">
   </a>
 </h1>
 
@@ -41,12 +41,8 @@ public class Kawhan
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,go,java,c,cpp&perline=12" alt="languages"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,jquery,django,flask,fastapi,spring&perline=12" alt="frameworks"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws,gitlab,git,grafana,nginx,rabbitmq,linux,bash,githubactions&perline=12" alt="tools"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,go,java,c,cpp,angular,react,html,css,bootstrap,jquery,django,flask,fastapi,spring,postgres,mysql,docker,aws,gitlab,git,grafana,nginx,rabbitmq,linux,bash&perline=10" alt="Languages and tools"/>
 </p>
 
 ## 💼 Experience
